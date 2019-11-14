@@ -1,0 +1,12 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+
+修改的文件  
+WpPutAwayController.java  WpPutAwayService.java  WpPutAwayServiceImpl.java    WpDetailRepository.java    wpPutAwayMain.html   WorkPackageMapper.xml
+
+明天早上准备发版  F:\记录存档\线上版本代码_第三版  中的slash.jar
+
+
+
+https://help.aliyun.com/knowledge_detail/118049.html#concept-263110
